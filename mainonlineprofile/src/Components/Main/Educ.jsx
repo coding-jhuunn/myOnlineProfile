@@ -6,9 +6,9 @@ const Educ = ()=>{
                         <h3 className="section-educ-text-title"s>Education</h3>
                 </div>
                 <div className="section-educ-content">
-                        <h3 className="section-educ-text-course">Computer Engineering</h3>
-                        <h4 className="section-educ-text-place">La Consolacion University Philippines</h4>
-                        <h4 className="section-educ-text-year">2019-2023</h4>
+                        <h4 className="section-educ-text-course">Computer Engineering</h4>
+                        <h5 className="section-educ-text-place">La Consolacion University Philippines</h5>
+                        <h5 className="section-educ-text-year">2019-2023</h5>
                 </div>
 
             </div>
