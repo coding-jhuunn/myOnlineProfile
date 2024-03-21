@@ -1,4 +1,4 @@
-# My Palindrome Checker 
+# My First Online Portfolio
 
 Skills Learned
 1. Learning the fundamentals of creating a react project
@@ -6,6 +6,6 @@ Skills Learned
 3. Applying github pages to deploy a live preview
 
    **Tools Used:** React and Pure CSS
-   **Link:** https://github.com/coding-jhuunn/myOnlineProfile
+   **Live Preview:** https://coding-jhuunn.github.io/mainOnlineProfile/
 
 
